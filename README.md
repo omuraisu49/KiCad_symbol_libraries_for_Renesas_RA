@@ -5,7 +5,7 @@ This KiCad symbol libraries help your custom renesas ra board creation.
 
 # Product Support List
 
-|Product Name|Type|Renesas Package Code|Package|Pins|Pitch(e)|E|D2<br>(Only QFN)|Schematics Support<br>in this library|Foot print Support<br>in this library|
+|Product Name|Package Type|Renesas Package Code|Package|Pins|Pitch(e)|E|D2<br>(Only QFN)|Schematics Support<br>in this library|Foot print Support<br>in this library|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |RA2A1|BT|PLBG0036GA-A|BGA|36|0.8|5|-|:o:|TBD|
 |RA2A1|FJ|PLQP0032GB-A|LQFP|32|0.8|7|-|:o:|:o:|
