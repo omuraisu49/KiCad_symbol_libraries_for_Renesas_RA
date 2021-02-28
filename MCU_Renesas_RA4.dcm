@@ -1,0 +1,79 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R7FA4M1xxxxFL
+D ARM Coretex-M4 MCU, 48MHz, 256KB Code Flash, 8KB Data Flash, 32KB SRAM, 1.6-5.5V, LQFP-48
+F https://www.renesas.com/jp/en/document/man/renesas-ra4m1-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA4M1xxxxFM
+D ARM Coretex-M4 MCU, 48MHz, 256KB Code Flash, 8KB Data Flash, 32KB SRAM, 1.6-5.5V, LQFP-64
+F https://www.renesas.com/jp/en/document/man/renesas-ra4m1-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA4M1xxxxFP
+D ARM Coretex-M4 MCU, 48MHz, 256KB Code Flash, 8KB Data Flash, 32KB SRAM, 1.6-5.5V, LQFP-100
+F https://www.renesas.com/jp/en/document/man/renesas-ra4m1-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA4M1xxxxLJ
+D ARM Coretex-M4 MCU, 48MHz, 256KB Code Flash, 8KB Data Flash, 32KB SRAM, 1.6-5.5V, LGA-100
+F https://www.renesas.com/jp/en/document/man/renesas-ra4m1-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA4M1xxxxNB
+D ARM Coretex-M4 MCU, 48MHz, 256KB Code Flash, 8KB Data Flash, 32KB SRAM, 1.6-5.5V, QFN-64
+F https://www.renesas.com/jp/en/document/man/renesas-ra4m1-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA4M1xxxxNE
+D ARM Coretex-M4 MCU, 48MHz, 256KB Code Flash, 8KB Data Flash, 32KB SRAM, 1.6-5.5V, QFN-48
+F https://www.renesas.com/jp/en/document/man/renesas-ra4m1-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA4M1xxxxNF
+D ARM Coretex-M4 MCU, 48MHz, 256KB Code Flash, 8KB Data Flash, 32KB SRAM, 1.6-5.5V, QFN-40
+F https://www.renesas.com/jp/en/document/man/renesas-ra4m1-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA4M2xxxxFL
+D ARM Coretex-M33 MCU, 100MHz, 512KB Code Flash, 8KB Data Flash, 128KB SRAM, 2.7-3.6V, LQFP-48
+F https://www.renesas.com/jp/en/document/man/ra4m2-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA4M2xxxxFM
+D ARM Coretex-M33 MCU, 100MHz, 512KB Code Flash, 8KB Data Flash, 128KB SRAM, 2.7-3.6V, LQFP-64
+F https://www.renesas.com/jp/en/document/man/ra4m2-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA4M2xxxxFP
+D ARM Coretex-M33 MCU, 100MHz, 512KB Code Flash, 8KB Data Flash, 128KB SRAM, 2.7-3.6V, LQFP-100
+F https://www.renesas.com/jp/en/document/man/ra4m2-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA4M2xxxxNE
+D ARM Coretex-M33 MCU, 100MHz, 512KB Code Flash, 8KB Data Flash, 128KB SRAM, 2.7-3.6V, QFN-48
+F https://www.renesas.com/jp/en/document/man/ra4m2-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA4M3xxxxFB
+D ARM Coretex-M33 MCU, 100MHz, 1MB Code Flash, 8KB Data Flash, 128KB SRAM, 2.7-3.6V, LQFP-144
+F https://www.renesas.com/jp/en/document/man/ra4m3-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA4M3xxxxFM
+D ARM Coretex-M33 MCU, 100MHz, 1MB Code Flash, 8KB Data Flash, 128KB SRAM, 2.7-3.6V, LQFP-64
+F https://www.renesas.com/jp/en/document/man/ra4m3-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA4M3xxxxFP
+D ARM Coretex-M33 MCU, 100MHz, 1MB Code Flash, 8KB Data Flash, 128KB SRAM, 2.7-3.6V, LQFP-100
+F https://www.renesas.com/jp/en/document/man/ra4m3-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA4W1xxxxNG
+D ATM Coretex-M4 MCU, 48MHz, 512KB Code Flash, 8KB Data Flash, 96KB SRAM, BLE, 1.8-3.6V, QFN-56
+K 32-bit ARM Cortex-M4 MCU Microcontroller
+F https://www.renesas.com/jp/en/document/man/renesas-ra4w1-group-users-manual-hardware
+$ENDCMP
+#
+#End Doc Library

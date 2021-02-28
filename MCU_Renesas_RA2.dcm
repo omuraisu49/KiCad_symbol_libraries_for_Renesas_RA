@@ -1,0 +1,98 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R7FA2A1xxxxBT
+D ARM Coretex-M23 MCU, 48MHz, 256KB Code Flash, 8KB Data Flash, 32KB SRAM, 1.6-5.5V, BGA-36
+F https://www.renesas.com/jp/en/document/man/renesas-ra2a1-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA2A1xxxxFJ
+D ARM Coretex-M23 MCU, 48MHz, 256KB Code Flash, 8KB Data Flash, 32KB SRAM, 1.6-5.5V, LQFP-32
+F https://www.renesas.com/jp/en/document/man/renesas-ra2a1-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA2A1xxxxFM
+D ARM Coretex-M23 MCU, 48MHz, 256KB Code Flash, 8KB Data Flash, 32KB SRAM, 1.6-5.5V, LQFP-64
+F https://www.renesas.com/jp/en/document/man/renesas-ra2a1-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA2A1xxxxNE
+D ARM Coretex-M23 MCU, 48MHz, 256KB Code Flash, 8KB Data Flash, 32KB SRAM, 1.6-5.5V, QFN-48
+F https://www.renesas.com/jp/en/document/man/renesas-ra2a1-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA2A1xxxxNF
+D ARM Coretex-M23 MCU, 48MHz, 256KB Code Flash, 8KB Data Flash, 32KB SRAM, 1.6-5.5V, QFN-40
+F https://www.renesas.com/jp/en/document/man/renesas-ra2a1-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA2E1xxxxBU
+D ARM Coretex-M23 MCU, 48MHz, 128KB Code Flash, 4KB Data Flash, 16KB SRAM, 1.6-5.5V, BGA-64
+F https://www.renesas.com/jp/en/document/man/ra2e1-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA2E1xxxxBV
+D ARM Coretex-M23 MCU, 48MHz, 128KB Code Flash, 4KB Data Flash, 16KB SRAM, 1.6-5.5V, WLCSP-25
+F https://www.renesas.com/jp/en/document/man/ra2e1-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA2E1xxxxFJ
+D ARM Coretex-M23 MCU, 48MHz, 128KB Code Flash, 4KB Data Flash, 16KB SRAM, 1.6-5.5V, LQFP-32
+F https://www.renesas.com/jp/en/document/man/ra2e1-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA2E1xxxxFK
+D ARM Coretex-M23 MCU, 48MHz, 128KB Code Flash, 4KB Data Flash, 16KB SRAM, 1.6-5.5V, LQFP-64
+F https://www.renesas.com/jp/en/document/man/ra2e1-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA2E1xxxxFL
+D ARM Coretex-M23 MCU, 48MHz, 128KB Code Flash, 4KB Data Flash, 16KB SRAM, 1.6-5.5V, LQFP-48
+F https://www.renesas.com/jp/en/document/man/ra2e1-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA2E1xxxxFM
+D ARM Coretex-M23 MCU, 48MHz, 128KB Code Flash, 4KB Data Flash, 16KB SRAM, 1.6-5.5V, LQFP-64
+F https://www.renesas.com/jp/en/document/man/ra2e1-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA2E1xxxxLM
+D ARM Coretex-M23 MCU, 48MHz, 128KB Code Flash, 4KB Data Flash, 16KB SRAM, 1.6-5.5V, LGA-36
+F https://www.renesas.com/jp/en/document/man/ra2e1-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA2E1xxxxNE
+D ARM Coretex-M23 MCU, 48MHz, 128KB Code Flash, 4KB Data Flash, 16KB SRAM, 1.6-5.5V, HWQFN-48
+F https://www.renesas.com/jp/en/document/man/ra2e1-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA2E1xxxxNH
+D ARM Coretex-M23 MCU, 48MHz, 128KB Code Flash, 4KB Data Flash, 16KB SRAM, 1.6-5.5V, HWQFN-32
+F https://www.renesas.com/jp/en/document/man/ra2e1-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA2L1xxxxFL
+D ARM Coretex-M23 MCU, 48MHz, Up tp 256KB Code Flash, 8KB Data Flash, 32KB SRAM, 1.6-5.5V, LQFP-48
+F https://www.renesas.com/jp/en/document/man/ra2l1-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA2L1xxxxFM
+D ARM Coretex-M23 MCU, 48MHz, Up tp 256KB Code Flash, 8KB Data Flash, 32KB SRAM, 1.6-5.5V, LQFP-64
+F https://www.renesas.com/jp/en/document/man/ra2l1-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA2L1xxxxFN
+D ARM Coretex-M23 MCU, 48MHz, Up tp 256KB Code Flash, 8KB Data Flash, 32KB SRAM, 1.6-5.5V, LQFP-80
+F https://www.renesas.com/jp/en/document/man/ra2l1-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA2L1xxxxFP
+D ARM Coretex-M23 MCU, 48MHz, Up tp 256KB Code Flash, 8KB Data Flash, 32KB SRAM, 1.6-5.5V, LQFP-100
+F https://www.renesas.com/jp/en/document/man/ra2l1-group-users-manual-hardware
+$ENDCMP
+#
+$CMP R7FA2L1xxxxNE
+D ARM Coretex-M23 MCU, 48MHz, Up tp 256KB Code Flash, 8KB Data Flash, 32KB SRAM, 1.6-5.5V, QFN-48
+F https://www.renesas.com/jp/en/document/man/ra2l1-group-users-manual-hardware
+$ENDCMP
+#
+#End Doc Library
